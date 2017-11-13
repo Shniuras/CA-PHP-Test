@@ -63,10 +63,6 @@ class Test {
     }
 }
 
-
-
-
-
 $myTest = new Test;
 //2.
 echo $myTest->dayToday();
